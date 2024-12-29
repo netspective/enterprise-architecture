@@ -2,6 +2,8 @@
 
 Netspective Unified Solutions Architecture is a robust, SOC2-compliant framework designed to provide reliable, scalable, and secure solutions for enterprise needs. This architecture integrates multiple components into a cohesive system, ensuring seamless interoperability, high performance, and compliance with stringent security standards. The architecture underpins all Netspective offerings, facilitating efficient operations and delivering unmatched customer value.
 
+<mark>TODO</mark>: Migrate Netspective EA diagrams and content from BZO.
+
 ## Unified Solutions Infrastructure (USI)
 
 ### 1. Unified Publishing Infrastructure (UPI)
